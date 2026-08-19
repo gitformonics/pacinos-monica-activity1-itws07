@@ -1,0 +1,7 @@
+{
+  "name": "ionic-global-sidemenu",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
